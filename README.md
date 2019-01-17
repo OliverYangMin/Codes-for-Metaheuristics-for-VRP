@@ -16,3 +16,8 @@ My codes for 《Metaheuristics for Vehicle Routing Problems》
 improvement or local search 的指导思想就是，我现在的生活状况，我也不知道是不是最好的，那么我就去折腾，往各个方向折腾，学英语，学编程，学为人处世，然后发现学了英语后，我的个人价值确实提高了，那么我就找到了一个更好的解。但如果我去学人杀人放火，干完一票后，发现自己进局子了，那我就换到了一个更差的解中。
 此时，我们就做一个尝试，然后一直得到更好的解，直到再怎么折腾都不能进步了，我就到达了人生巅峰。
 
+++initial solution++
+++neighborhood++
+++move++
+
+

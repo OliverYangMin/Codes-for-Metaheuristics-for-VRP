@@ -27,8 +27,8 @@ __move__
     
 运营者自己便会相处许多简单可行的方法来解决这个问题，这些简单的启发式算法能够build a single solution作为基于search的元启发式算法的**initial solution**。这些启发式算法具有简单易行，计算速度快，能得到较好的解的特点，因此被许多商业化软件所采用。其应对**side constraints**变种的能力也不错。
 ### 2.1.1 Constructive heurisitcs
-   TSP作为特殊的简单的VRP问题，为VRP问题的求解提供了许多经验和方法。
-1.ad_hoc    
+  TSP作为特殊的简单的VRP问题，为VRP问题的求解提供了许多经验和方法。  
+1.ad_hoc 
 每个客户点直接派出一辆车辆专门服务，虽然成本剧增，但架不住大爷我乐意。此方法作为包括CW算法在内的多种算法的初始解。
 
 2.nearest_neighbor
